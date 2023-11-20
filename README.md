@@ -40,12 +40,5 @@
   <ul>
     <li>Stories</li>
   </ul>
-  <h3>Looking for a custom art?</h3>
-  <ul>
-    <li><a href="artrequest.html" target="_blank"> Art request </a> </li>
-  </ul>
-  <h3> Our recent art </h3>
-  <img src="./images/Img2.png" width="200">
-  <footer> This is a sample image </footer>
   </body>
 </html>
