@@ -34,7 +34,7 @@
 </head>
 <body>
 <h1> Project 1 </h1>
-  <img src="/Img.jpg" width="959"/>
+  <img src="Img.jpg" width="959"/>
   <p> "Welcome to our online haven, where the art of writing takes center stage. Immerse yourself in a world of creativity, inspiration, and skillful expression. Explore curated content that celebrates the beauty and power of words. From captivating stories to insightful articles, join us on a journey where every click unveils a new chapter in the evolving tapestry of writing excellence. Unleash your imagination and discover the boundless possibilities that the written word holds, right here at [Your Website Name]."</p>
   
   <ul>
