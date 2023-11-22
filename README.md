@@ -33,7 +33,7 @@
 </head>
 <body>
 <h2> Story 1 </h2>
-  <img src="Img.jpg" width="959"/>
+  <img src="IMG_20231122_185411.png" width="959"/>
   <p> Once upon a time, there lived a young introverted boy who cherished a special spot in his home—a sanctuary of peace he reserved for Sundays. Here, he found solace, engaging in conversations with neighbors and friends, observing children playing, witnessing events on the street, and contemplating the vastness of the sky. His girlfriend often joined him in this serene space.
 
 Leaving this haven on weekdays tugged at his heart, making him yearn for the next Sunday when he could return. However, a new job in a different location forced him to bid farewell to his cherished spot.
