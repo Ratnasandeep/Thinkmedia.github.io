@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <title>project1</title>
   <style>
-  h1{
-    color:black;text-align:center;
+  h2{
+    color:black;text-align:left;
   }
   img{
     float:left;
@@ -15,7 +15,7 @@
     color:#FFC7C7;
     font-size:20px;
   }
-  h1{
+  h2{
     color:#7071E8;
     font-size:50px;
   }
@@ -33,9 +33,15 @@
 </style>
 </head>
 <body>
-<h1> Project 1 </h1>
+<h2> Story 1 </h2>
   <img src="Img.jpg" width="959"/>
-  <p> "Welcome to our online haven, where the art of writing takes center stage. Immerse yourself in a world of creativity, inspiration, and skillful expression. Explore curated content that celebrates the beauty and power of words. From captivating stories to insightful articles, join us on a journey where every click unveils a new chapter in the evolving tapestry of writing excellence. Unleash your imagination and discover the boundless possibilities that the written word holds, right here at [Your Website Name]."</p>
+  <p> Once upon a time, there lived a young introverted boy who cherished a special spot in his home—a sanctuary of peace he reserved for Sundays. Here, he found solace, engaging in conversations with neighbors and friends, observing children playing, witnessing events on the street, and contemplating the vastness of the sky. His girlfriend often joined him in this serene space.
+
+Leaving this haven on weekdays tugged at his heart, making him yearn for the next Sunday when he could return. However, a new job in a different location forced him to bid farewell to his cherished spot.
+
+Years later, upon his return, he discovered a young boy now occupying the very place where he once found comfort. It dawned on him that while places may change, the emotions engraved in his heart remained unwavering.
+
+</p>
   
   <ul>
     <li>Stories</li>
