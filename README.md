@@ -20,8 +20,7 @@
     font-size:50px;
   }
   p{
-    color:#C683D7;
-    font-size:20px;
+    color:#2B2A4C;  font-size:20px;
   }
   h3{
     color:#ED9ED6;
