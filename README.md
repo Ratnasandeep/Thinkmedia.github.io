@@ -21,7 +21,7 @@
   }
   p{
     color:#2B2A4C;  font-size:20px;
-font-family:'Garamound', serif;
+font-family:'Garamound',cursive ;
   }
   h3{
     color:#ED9ED6;
