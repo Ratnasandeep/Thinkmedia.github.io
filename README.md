@@ -44,7 +44,7 @@ Years later, upon his return, he discovered a young boy now occupying the very p
 </p>
   
   <ul>
-    <li>Stories</li>
+    <li><a href=""> Related blog </a></li>
   </ul>
   </body>
 </html>
