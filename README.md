@@ -21,6 +21,7 @@
   }
   p{
     color:#2B2A4C;  font-size:20px;
+font-family:garamound;
   }
   h3{
     color:#ED9ED6;
