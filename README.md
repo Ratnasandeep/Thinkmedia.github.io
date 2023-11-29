@@ -44,7 +44,7 @@ Years later, upon his return, he discovered a young boy now occupying the very p
 </p>
   
   <ul>
-    <li><a href="https://rbgcreationsgallery.wordpress.com/bible-animations/)https://rbgcreationsgallery.wordpress.com/bible-animations"/> Related blog </a></li>
+    <li><a href="https://rbgcreationsgallery.wordpress.com/bible-animations/)https://rbgcreationsgallery.wordpress.com/bible-animations" Related blog </a></li>
   </ul>
   </body>
 </html>
